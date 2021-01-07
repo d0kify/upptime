@@ -16,9 +16,9 @@ sites:
     url: $STAGING_HOMOLOGATION_WEBSOCKET
 
 status-website:
-  cname: status-io-jx.dokify.net
+  #cname: status-io-jx.dokify.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  #baseUrl: /upptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
