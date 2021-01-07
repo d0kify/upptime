@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 491,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 491,
+    "time": 484,
+    "timeDay": 484,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {}
   },
   {
@@ -54,23 +54,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Secret Site",
+    "name": "Auth Service",
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "secret-site",
-    "status": "down",
+    "slug": "auth-service",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-01-07": 4
-    }
+    "time": 739,
+    "timeDay": 739,
+    "timeWeek": 739,
+    "timeMonth": 739,
+    "timeYear": 739,
+    "dailyMinutesDown": {}
   }
 ]
