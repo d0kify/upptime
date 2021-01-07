@@ -8,6 +8,12 @@ sites:
     url: https://dokify.net
   - name: Auth Service
     url: $SECRET_SITE
+  - name: Staging front
+    url: $STAGING_FRONT
+  - name: Staging Homologation API
+    url: $STAGING_HOMOLOGATION_API
+  - name: Staging Homologation WebSocket
+    url: $STAGING_HOMOLOGATION_WEBSOCKET
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
