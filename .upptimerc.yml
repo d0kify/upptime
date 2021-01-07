@@ -11,7 +11,7 @@ sites:
   - name: Test for HEAD
     method: HEAD
     url: https://dokify.net
-  - name: Secret Site
+  - name: Auth Service
     url: $SECRET_SITE
 
 status-website:
