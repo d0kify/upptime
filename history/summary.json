@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 494,
-    "timeWeek": 494,
-    "timeMonth": 494,
-    "timeYear": 494,
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 726,
-    "timeWeek": 726,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 728,
+    "timeDay": 728,
+    "timeWeek": 728,
+    "timeMonth": 728,
+    "timeYear": 728,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 368,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "time": 398,
+    "timeDay": 398,
+    "timeWeek": 398,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "staging-homologation-api",
     "status": "up",
-    "uptime": "1.42%",
-    "uptimeDay": "1.42%",
-    "uptimeWeek": "1.42%",
-    "uptimeMonth": "1.42%",
-    "uptimeYear": "1.42%",
-    "time": 422,
-    "timeDay": 422,
-    "timeWeek": 422,
-    "timeMonth": 422,
-    "timeYear": 422,
-    "dailyMinutesDown": {
-      "2021-01-07": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 412,
+    "timeDay": 412,
+    "timeWeek": 412,
+    "timeMonth": 412,
+    "timeYear": 412,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Staging Homologation WebSocket",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 393,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   }
 ]
