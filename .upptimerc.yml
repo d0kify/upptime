@@ -14,6 +14,8 @@ sites:
     url: $STAGING_HOMOLOGATION_API
   - name: Staging Homologation WebSocket
     url: $STAGING_HOMOLOGATION_WEBSOCKET
+  - name: WebHook Site
+    url: $WEBHOOK_SITE    
 
 status-website:
   #cname: status-io-jx.dokify.net
