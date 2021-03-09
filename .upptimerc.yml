@@ -6,6 +6,12 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Dokify
     url: https://dokify.net
+  - name: Homologation Web
+    url: https://homologation.dokify.net
+  - name: Homologation Api
+    url: https://homologation-api.dokify.net
+  - name: Homologation WebSocket
+    url: https://homologation-api-nchan.dokify.net
   - name: Auth Service
     url: $SECRET_SITE
   - name: Staging Homologation Front
