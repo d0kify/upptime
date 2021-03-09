@@ -9,7 +9,7 @@ sites:
   - name: Homologation Web
     url: https://homologation.dokify.net
   - name: Homologation Api
-    url: https://homologation-api.dokify.net
+    url: https://homologation-api.dokify.net/health-check
   - name: Homologation WebSocket
     url: https://homologation-api-nchan.dokify.net
   - name: Auth Service
