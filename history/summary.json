@@ -52,7 +52,7 @@
     "timeMonth": 661,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2021-07-26": 21,
+      "2021-07-26": 739,
       "2021-07-25": 1440,
       "2021-07-24": 1440,
       "2021-07-23": 1440,
@@ -299,7 +299,7 @@
     "url": "$STAGING_HOMOLOGATION_WEBSOCKET",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "staging-homologation-web-socket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
