@@ -1,7 +1,7 @@
 url: $STAGING_HOMOLOGATION_WEBSOCKET
-status: down
-code: 503
-responseTime: 807
-lastUpdated: 2021-09-05T01:29:27.162Z
+status: up
+code: 200
+responseTime: 712
+lastUpdated: 2021-09-05T02:11:07.626Z
 startTime: Thu Jan 07 2021 15:22:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
