@@ -52,7 +52,7 @@
     "timeMonth": 656,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2022-02-16": 29,
+      "2022-02-16": 1197,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
@@ -450,8 +450,8 @@
     "uptimeYear": "99.99%",
     "time": 910,
     "timeDay": 976,
-    "timeWeek": 933,
-    "timeMonth": 901,
+    "timeWeek": 958,
+    "timeMonth": 897,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2021-02-26": 28
@@ -462,16 +462,16 @@
     "url": "$STAGING_HOMOLOGATION_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "staging-homologation-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 919,
-    "timeDay": 999,
-    "timeWeek": 933,
-    "timeMonth": 934,
+    "timeDay": 991,
+    "timeWeek": 966,
+    "timeMonth": 935,
     "timeYear": 968,
     "dailyMinutesDown": {
       "2021-03-08": 18,
@@ -491,8 +491,8 @@
     "uptimeYear": "100.00%",
     "time": 834,
     "timeDay": 987,
-    "timeWeek": 913,
-    "timeMonth": 903,
+    "timeWeek": 929,
+    "timeMonth": 899,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2021-02-28": 20
