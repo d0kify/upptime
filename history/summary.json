@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 543,
+    "timeDay": 526,
     "timeWeek": 559,
     "timeMonth": 524,
-    "timeYear": 528,
+    "timeYear": 529,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 585,
     "timeWeek": 526,
     "timeMonth": 590,
-    "timeYear": 699,
+    "timeYear": 700,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "timeDay": 540,
     "timeWeek": 515,
     "timeMonth": 588,
-    "timeYear": 667,
+    "timeYear": 665,
     "dailyMinutesDown": {
-      "2022-03-09": 559,
+      "2022-03-09": 944,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
@@ -452,7 +452,7 @@
     "timeDay": 524,
     "timeWeek": 516,
     "timeMonth": 575,
-    "timeYear": 636,
+    "timeYear": 637,
     "dailyMinutesDown": {}
   },
   {
@@ -460,16 +460,16 @@
     "url": "$STAGING_FRONT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "staging-homologation-front",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 926,
-    "timeDay": 668,
-    "timeWeek": 710,
-    "timeMonth": 1142,
+    "timeDay": 707,
+    "timeWeek": 718,
+    "timeMonth": 1149,
     "timeYear": 951,
     "dailyMinutesDown": {}
   },
@@ -487,7 +487,7 @@
     "time": 914,
     "timeDay": 716,
     "timeWeek": 759,
-    "timeMonth": 852,
+    "timeMonth": 855,
     "timeYear": 981,
     "dailyMinutesDown": {}
   },
@@ -505,8 +505,8 @@
     "time": 829,
     "timeDay": 668,
     "timeWeek": 689,
-    "timeMonth": 791,
-    "timeYear": 888,
+    "timeMonth": 790,
+    "timeYear": 889,
     "dailyMinutesDown": {}
   },
   {
