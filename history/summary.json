@@ -52,7 +52,7 @@
     "timeMonth": 456,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2022-05-26": 47,
+      "2022-05-26": 639,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
@@ -460,17 +460,17 @@
     "url": "$STAGING_FRONT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "staging-homologation-front",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 905,
-    "timeDay": 506,
-    "timeWeek": 720,
-    "timeMonth": 705,
-    "timeYear": 911,
+    "timeDay": 510,
+    "timeWeek": 634,
+    "timeMonth": 702,
+    "timeYear": 910,
     "dailyMinutesDown": {}
   },
   {
@@ -486,9 +486,9 @@
     "uptimeYear": "100.00%",
     "time": 925,
     "timeDay": 540,
-    "timeWeek": 710,
+    "timeWeek": 684,
     "timeMonth": 743,
-    "timeYear": 964,
+    "timeYear": 963,
     "dailyMinutesDown": {}
   },
   {
@@ -504,7 +504,7 @@
     "uptimeYear": "100.00%",
     "time": 809,
     "timeDay": 539,
-    "timeWeek": 675,
+    "timeWeek": 647,
     "timeMonth": 697,
     "timeYear": 845,
     "dailyMinutesDown": {}
