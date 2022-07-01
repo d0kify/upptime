@@ -14,7 +14,7 @@
     "timeDay": 514,
     "timeWeek": 454,
     "timeMonth": 434,
-    "timeYear": 521,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,7 @@
     "timeMonth": 447,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2022-07-01": 57,
+      "2022-07-01": 945,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
@@ -486,8 +486,8 @@
     "uptimeYear": "100.00%",
     "time": 950,
     "timeDay": 644,
-    "timeWeek": 1427,
-    "timeMonth": 953,
+    "timeWeek": 624,
+    "timeMonth": 971,
     "timeYear": 964,
     "dailyMinutesDown": {}
   },
@@ -496,17 +496,17 @@
     "url": "$STAGING_HOMOLOGATION_WEBSOCKET",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "staging-homologation-web-socket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 894,
-    "timeWeek": 612,
-    "timeMonth": 641,
-    "timeYear": 825,
+    "time": 829,
+    "timeDay": 820,
+    "timeWeek": 637,
+    "timeMonth": 647,
+    "timeYear": 824,
     "dailyMinutesDown": {}
   },
   {
