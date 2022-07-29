@@ -1,7 +1,7 @@
 url: $STAGING_HOMOLOGATION_API
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2022-07-28T23:22:11.619Z
+status: down
+code: 503
+responseTime: 832
+lastUpdated: 2022-07-29T09:56:24.866Z
 startTime: Thu Jan 07 2021 15:22:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
