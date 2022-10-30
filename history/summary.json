@@ -52,7 +52,7 @@
     "timeMonth": 445,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2022-10-30": 61,
+      "2022-10-30": 1369,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
@@ -460,16 +460,16 @@
     "url": "$STAGING_FRONT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "staging-homologation-front",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 863,
-    "timeDay": 653,
-    "timeWeek": 638,
-    "timeMonth": 651,
+    "timeDay": 797,
+    "timeWeek": 658,
+    "timeMonth": 657,
     "timeYear": 829,
     "dailyMinutesDown": {}
   },
@@ -488,7 +488,7 @@
     "timeDay": 640,
     "timeWeek": 633,
     "timeMonth": 695,
-    "timeYear": 863,
+    "timeYear": 864,
     "dailyMinutesDown": {}
   },
   {
