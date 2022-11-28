@@ -24,6 +24,7 @@ sites:
     url: $SECRET_SITE
   - name: Staging Homologation Front
     url: $STAGING_FRONT
+    slug: staging-homologation-front
   - name: Staging Homologation API
     url: $STAGING_HOMOLOGATION_API
   - name: Staging Homologation WebSocket
