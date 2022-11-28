@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Dokify
     url: https://dokify.net
+  - name: Dokify App
+    url: https://app.dokify.net/blank.php
   - name: Homologation Web
     url: https://homologation.dokify.net
   - name: Homologation Api
