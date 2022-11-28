@@ -12,6 +12,12 @@ sites:
     url: https://homologation-api.dokify.net/health-check
   - name: Homologation WebSocket
     url: https://homologation-api-nchan.dokify.net
+  - name: Webhook Public Api
+    url: https://webhook.dokify.net/health-check
+  - name: Risk Evaluation Web
+    url: https://evaluation.dokify.net
+  - name: Forms Api
+    url: https://form.dokify.net/health-check
   - name: Auth Service
     url: $SECRET_SITE
   - name: Staging Homologation Front
@@ -20,6 +26,24 @@ sites:
     url: $STAGING_HOMOLOGATION_API
   - name: Staging Homologation WebSocket
     url: $STAGING_HOMOLOGATION_WEBSOCKET
+  - name: Staging Webhook Public Api
+    url: $STAGING_WEBHOOK
+  - name: Staging Risk Evaluation Web
+    url: $STAGING_EVALUATION
+  - name: Forms Api
+    url: $DEMO_FORM
+  - name: Demo Homologation Front
+    url: $DEMO_FRONT
+  - name: Demo Homologation API
+    url: $DEMO_HOMOLOGATION_API
+  - name: Demo Homologation WebSocket
+    url: $DEMO_HOMOLOGATION_WEBSOCKET
+  - name: Demo Webhook Public Api
+    url: $DEMO_WEBHOOK
+  - name: Demo Risk Evaluation Web
+    url: $DEMO_EVALUATION
+  - name: Demo Api
+    url: $DEMO_FORM
   - name: WebHook Site
     url: $WEBHOOK_SITE    
 
