@@ -21,33 +21,33 @@ sites:
   - name: Forms Api
     url: https://form.dokify.net/health-check
   - name: Auth Service
-    url: ${SECRET_SITE}
+    url: $SECRET_SITE
   - name: Staging Homologation Front
-    url: ${STAGING_FRONT}
+    url: $STAGING_FRONT
   - name: Staging Homologation API
-    url: ${STAGING_HOMOLOGATION_API}
+    url: $STAGING_HOMOLOGATION_API
   - name: Staging Homologation WebSocket
-    url: ${STAGING_HOMOLOGATION_WEBSOCKET}
+    url: $STAGING_HOMOLOGATION_WEBSOCKET
   - name: Staging Webhook Public Api
-    url: ${STAGING_WEBHOOK}
+    url: $STAGING_WEBHOOK
   - name: Staging Risk Evaluation Web
-    url: ${STAGING_EVALUATION}
+    url: $STAGING_EVALUATION
   - name: Staging Forms Api
-    url: ${STAGING_FORM}
+    url: $STAGING_FORM
   - name: Demo Homologation Front
-    url: ${DEMO_FRONT}
+    url: $DEMO_FRONT
   - name: Demo Homologation API
-    url: ${DEMO_HOMOLOGATION_API}
+    url: $DEMO_HOMOLOGATION_API
   - name: Demo Homologation WebSocket
-    url: ${DEMO_HOMOLOGATION_WEBSOCKET}
+    url: $DEMO_HOMOLOGATION_WEBSOCKET
   - name: Demo Webhook Public Api
-    url: ${DEMO_WEBHOOK}
+    url: $DEMO_WEBHOOK
   - name: Demo Risk Evaluation Web
-    url: ${DEMO_EVALUATION}
+    url: $DEMO_EVALUATION
   - name: Demo Forms Api
-    url: ${DEMO_FORM}
+    url: $DEMO_FORM
   - name: WebHook Site
-    url: ${WEBHOOK_SITE}
+    url: $WEBHOOK_SITE
 
 status-website:
   #cname: status-io-jx.dokify.net
