@@ -1,7 +1,7 @@
 url: $DEMO_EVALUATION
-status: down
-code: 503
-responseTime: 315
-lastUpdated: 2022-12-09T10:41:01.760Z
+status: up
+code: 200
+responseTime: 428
+lastUpdated: 2022-12-09T10:50:24.988Z
 startTime: Mon Nov 28 2022 08:41:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
