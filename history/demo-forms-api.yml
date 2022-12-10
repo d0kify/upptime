@@ -1,7 +1,7 @@
 url: $DEMO_FORM
-status: up
-code: 200
-responseTime: 295
-lastUpdated: 2022-12-10T18:46:48.020Z
+status: down
+code: 502
+responseTime: 537
+lastUpdated: 2022-12-10T19:39:11.858Z
 startTime: Mon Nov 28 2022 09:56:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
