@@ -1,7 +1,7 @@
 url: $DEMO_HOMOLOGATION_API
-status: up
-code: 200
-responseTime: 474
-lastUpdated: 2022-12-25T23:17:17.642Z
+status: down
+code: 503
+responseTime: 514
+lastUpdated: 2022-12-26T21:16:38.021Z
 startTime: Mon Nov 28 2022 08:41:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
