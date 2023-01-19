@@ -1,7 +1,7 @@
 url: $DEMO_FRONT
-status: up
-code: 200
-responseTime: 547
-lastUpdated: 2023-01-19T09:39:47.299Z
+status: down
+code: 503
+responseTime: 399
+lastUpdated: 2023-01-19T10:34:03.272Z
 startTime: Mon Nov 28 2022 08:40:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
