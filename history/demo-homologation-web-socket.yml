@@ -1,7 +1,7 @@
 url: $DEMO_HOMOLOGATION_WEBSOCKET
-status: down
-code: 502
-responseTime: 312
-lastUpdated: 2023-01-27T16:17:23.564Z
+status: up
+code: 200
+responseTime: 425
+lastUpdated: 2023-01-27T16:39:56.365Z
 startTime: Mon Nov 28 2022 08:41:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
