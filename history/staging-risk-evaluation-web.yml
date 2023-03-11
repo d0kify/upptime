@@ -1,7 +1,7 @@
 url: $STAGING_EVALUATION
-status: down
-code: 502
-responseTime: 320
-lastUpdated: 2023-03-11T11:48:44.362Z
+status: up
+code: 200
+responseTime: 432
+lastUpdated: 2023-03-11T11:57:56.608Z
 startTime: Mon Nov 28 2022 08:40:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
