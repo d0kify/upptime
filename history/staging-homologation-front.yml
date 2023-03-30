@@ -1,7 +1,7 @@
 url: $STAGING_FRONT
-status: up
-code: 200
-responseTime: 725
-lastUpdated: 2023-03-29T23:16:39.956Z
+status: down
+code: 503
+responseTime: 753
+lastUpdated: 2023-03-30T03:10:29.812Z
 startTime: Thu Jan 07 2021 15:24:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
