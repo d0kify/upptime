@@ -1,7 +1,7 @@
 url: $STAGING_FORM
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 329
-lastUpdated: 2023-04-01T15:35:58.876Z
+lastUpdated: 2023-04-01T15:54:31.468Z
 startTime: Mon Nov 28 2022 09:56:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
