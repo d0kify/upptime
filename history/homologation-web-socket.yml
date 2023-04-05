@@ -1,7 +1,7 @@
 url: https://homologation-api-nchan.dokify.net
-status: down
-code: 503
-responseTime: 562
-lastUpdated: 2023-04-05T01:03:53.022Z
+status: up
+code: 200
+responseTime: 557
+lastUpdated: 2023-04-05T01:55:36.610Z
 startTime: Tue Mar 09 2021 10:18:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
