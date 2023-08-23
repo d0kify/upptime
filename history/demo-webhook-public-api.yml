@@ -1,7 +1,7 @@
 url: $DEMO_WEBHOOK
-status: up
-code: 200
-responseTime: 143
-lastUpdated: 2023-08-23T09:56:17.022Z
+status: down
+code: 503
+responseTime: 151
+lastUpdated: 2023-08-23T10:12:53.932Z
 startTime: 2022-11-28T08:41:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
