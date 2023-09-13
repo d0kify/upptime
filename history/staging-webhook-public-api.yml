@@ -1,7 +1,7 @@
 url: $STAGING_WEBHOOK
-status: down
-code: 503
-responseTime: 405
-lastUpdated: 2023-09-13T11:50:02.652Z
+status: up
+code: 200
+responseTime: 536
+lastUpdated: 2023-09-13T11:59:03.827Z
 startTime: 2022-11-28T08:40:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
