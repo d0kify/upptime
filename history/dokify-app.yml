@@ -1,7 +1,7 @@
 url: https://app.dokify.net/blank.php
-status: up
-code: 200
-responseTime: 288
-lastUpdated: 2024-07-15T07:58:58.015Z
+status: down
+code: 502
+responseTime: 172
+lastUpdated: 2024-07-15T22:30:24.207Z
 startTime: 2022-11-28T10:40:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
