@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 513,
-    "timeDay": 733,
-    "timeWeek": 730,
-    "timeMonth": 654,
+    "timeDay": 0,
+    "timeWeek": 754,
+    "timeMonth": 664,
     "timeYear": 515,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 239,
-    "timeDay": 254,
-    "timeWeek": 241,
-    "timeMonth": 250,
+    "timeDay": 0,
+    "timeWeek": 234,
+    "timeMonth": 249,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2024-10-29": 52,
@@ -49,19 +49,19 @@
     "url": "https://homologation.dokify.net",
     "icon": "https://icons.duckduckgo.com/ip3/homologation.dokify.net.ico",
     "slug": "homologation-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 419,
-    "timeDay": 389,
-    "timeWeek": 426,
-    "timeMonth": 443,
+    "timeDay": 493,
+    "timeWeek": 451,
+    "timeMonth": 447,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2025-01-19": 6
+      "2025-01-19": 19
     }
   },
   {
@@ -69,19 +69,19 @@
     "url": "https://homologation-api.dokify.net/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/homologation-api.dokify.net.ico",
     "slug": "homologation-api",
-    "status": "down",
+    "status": "up",
     "uptime": "55.43%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 423,
-    "timeDay": 391,
-    "timeWeek": 424,
-    "timeMonth": 451,
+    "timeDay": 470,
+    "timeWeek": 449,
+    "timeMonth": 457,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2025-01-19": 6
+      "2025-01-19": 19
     }
   },
   {
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 413,
-    "timeDay": 340,
-    "timeWeek": 402,
-    "timeMonth": 433,
+    "timeDay": 0,
+    "timeWeek": 398,
+    "timeMonth": 435,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2024-05-29": 63,
@@ -117,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
-    "timeDay": 394,
-    "timeWeek": 402,
-    "timeMonth": 438,
+    "timeDay": 0,
+    "timeWeek": 408,
+    "timeMonth": 440,
     "timeYear": 415,
     "dailyMinutesDown": {}
   },
@@ -140,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1383,
+      "2025-01-19": 1402,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -524,7 +524,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1383,
+      "2025-01-19": 1402,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -908,7 +908,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1383,
+      "2025-01-19": 1402,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -1292,7 +1292,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1383,
+      "2025-01-19": 1402,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -1676,7 +1676,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1383,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -2060,7 +2060,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -2444,7 +2444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -2828,7 +2828,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -3212,7 +3212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -3596,7 +3596,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -3980,7 +3980,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -4364,7 +4364,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -4748,7 +4748,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -5132,7 +5132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -5516,7 +5516,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -5900,7 +5900,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-19": 1384,
+      "2025-01-19": 1403,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
