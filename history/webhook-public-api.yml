@@ -1,7 +1,7 @@
 url: https://webhook.dokify.net/health-check
-status: down
-code: 503
-responseTime: 392
-lastUpdated: 2025-01-26T23:11:16.176Z
+status: up
+code: 200
+responseTime: 402
+lastUpdated: 2025-01-26T23:24:25.649Z
 startTime: 2022-11-28T08:40:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
