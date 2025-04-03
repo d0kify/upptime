@@ -90,19 +90,19 @@
     "url": "https://homologation-api-nchan.dokify.net",
     "icon": "https://icons.duckduckgo.com/ip3/homologation-api-nchan.dokify.net.ico",
     "slug": "homologation-web-socket",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 417,
-    "timeDay": 474,
-    "timeWeek": 465,
-    "timeMonth": 443,
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 416,
+    "timeDay": 454,
+    "timeWeek": 460,
+    "timeMonth": 442,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-04-03": 6,
+      "2025-04-03": 23,
       "2024-05-29": 63,
       "2024-05-28": 4
     }
@@ -112,19 +112,19 @@
     "url": "https://webhook.dokify.net/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/webhook.dokify.net.ico",
     "slug": "webhook-public-api",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 464,
-    "timeWeek": 451,
-    "timeMonth": 451,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 450,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-04-03": 6
+      "2025-04-03": 23
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 542,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -528,7 +528,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 542,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -912,7 +912,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 542,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -1296,7 +1296,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 542,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -1680,7 +1680,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 542,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -2053,7 +2053,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "staging-homologation-web-socket",
     "status": "down",
-    "uptime": "67.64%",
+    "uptime": "67.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2064,7 +2064,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 542,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -2448,7 +2448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 542,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -2832,7 +2832,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 542,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -3216,7 +3216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 542,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -3600,7 +3600,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 543,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -3984,7 +3984,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 543,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -4368,7 +4368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 543,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -4752,7 +4752,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 543,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -5136,7 +5136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 543,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -5520,7 +5520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 543,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
@@ -5904,7 +5904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-03": 543,
+      "2025-04-03": 565,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
