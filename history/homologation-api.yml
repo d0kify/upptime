@@ -1,7 +1,7 @@
 url: https://homologation-api.dokify.net/health-check
-status: down
-code: 503
-responseTime: 352
-lastUpdated: 2025-10-05T23:17:05.079Z
+status: up
+code: 200
+responseTime: 394
+lastUpdated: 2025-10-06T06:16:38.398Z
 startTime: 2021-03-09T10:18:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
